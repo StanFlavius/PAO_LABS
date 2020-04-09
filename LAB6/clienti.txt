@@ -1,0 +1,5 @@
+Popa Andrei 10
+Popescu Andi 12
+Popovici Adi 45
+Gheorghescu Gheorghe 6
+Gheorghiu George 18
